@@ -22,6 +22,7 @@
 class float2money:
     def __init__(self, money):
         self.mn = money
+        pass
 
     def dollarize(self):
         pass
